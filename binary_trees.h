@@ -3,6 +3,10 @@
 #include <stdlib.h>
 #include <stddef.h>
 #include <stdio.h>
+#include <string.h>
+#include <stdbool.h>
+#include <limits.h>
+
 
 /* Basic Binary tree */
 
